@@ -25,3 +25,4 @@ func main() {
 	fmt.Printf("Tax Rate: %.0f%%\n", taxRate*100)
 	fmt.Printf("Price with Tax: $%.2f\n", priceWithTax)
 }
+
