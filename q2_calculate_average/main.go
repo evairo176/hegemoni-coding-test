@@ -36,3 +36,4 @@ func main() {
 		fmt.Printf("Average of %v = %.2f\n", numbers2, avg2)
 	}
 }
+
